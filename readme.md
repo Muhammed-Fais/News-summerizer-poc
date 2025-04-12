@@ -2,7 +2,7 @@
 
 A Streamlit app that fetches real-time news from various sources, summarizes them using **Google Gemini AI**, and lets you chat about the news. Ideal for users who want quick, smart insights without reading dozens of articles.
 
-![Demo](screenshorts/demo.mp4)
+![Demo](screenshorts/demo.gif)
 
 ## ✨ Features
 
